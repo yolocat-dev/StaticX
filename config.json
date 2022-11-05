@@ -1,0 +1,15 @@
+{
+	"server": {
+		"files": "static",
+		"port": 41408
+	},
+	"auth": [
+		{
+			"username": "admin",
+			"password": "edbd881f1ee2f76ba0bd70fd184f87711be991a0401fd07ccd4b199665f00761afc91731d8d8ba6cbb188b2ed5bfb465b9f3d30231eb0430b9f90fe91d136648",
+			"files": [
+				".*"
+			]
+		}
+	]
+}
